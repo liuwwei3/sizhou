@@ -1,0 +1,6 @@
+Dependencies for Project 'Project', Target 'STM3210B-EVAL': (DO NOT MODIFY !)
+F (.\stm32f10x_it.c)(0x4BB1A1AC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\ST\STM32F10x" -o ".\Obj\stm32f10x_it.o" --depend ".\Obj\stm32f10x_it.d")
+F (.\main.c)(0x533E7860)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\ST\STM32F10x" -o ".\Obj\main.o" --depend ".\Obj\main.d")
+F (..\..\..\..\RV31\LIB\ST\STM32F10xR.LIB)(0x4BCFB8DE)()
+F (.\stm32f10x_vector.s)(0x4BB1A1AC)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\ST\STM32F10x" --list ".\Lst\stm32f10x_vector.lst" --xref -o ".\Obj\stm32f10x_vector.o" --depend ".\Obj\stm32f10x_vector.d")
+F (.\readme.txt)(0x4BB1A1AC)()
